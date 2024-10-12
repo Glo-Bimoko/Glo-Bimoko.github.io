@@ -1,0 +1,3 @@
+## About Me
+
+With a strong foundation in medical laboratory science, I specialize in **molecular pathology** and **bioinformatics**. My current role at the **Centre for Proteomics and Genomics Research (CPGR)** allows me to work at the cutting edge of OMICS technologies. With a particular focus on **microarray analysis** and **multi-OMICS data integration**. I’m also pursuing a master’s degree in **Data Science and Bioinformatics** at the University of Cape Town, furthering my knowledge in computational biology and data analytics.

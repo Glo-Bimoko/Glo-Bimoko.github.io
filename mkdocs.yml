@@ -1,1 +1,79 @@
-site_name: My Docs
+
+# Project information
+site_name: Glory Bimoko
+site_url: https://Glo-Bimoko.github.io/
+site_author: Glory Bimoko
+site_description: >-
+  I'm Glory Bimoko, Medical laboratory scientist and Bioinformatician in training, 
+  Welcome to my portfolio.
+
+# Repository
+repo_name: Glo-Bimoko/Glo-Bimoko.github.io 
+repo_url: https://github.com/Glo-Bimoko/Glo-Bimoko.github.io
+
+# Configuration
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to system preference
+
+
+# Additional configuration
+extra:
+  analytics:
+    provider: google
+    property: G-3WPWVJSQGS
+
+
+# Plugins 
+plugins:
+  - meta-descriptions
+  - blog:
+      post_date_format: medium
+      post_readtime: true
+      blog_dir: blog
+      blog_toc: true
+  - search:
+      lang: en
+
+
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog: 
+    - blog/index.md
+  - Current Projects:
+      - Pharmacogenomics Data Analysis: projects/pharmacogenomics.md
+      - RNA-seq Pipeline: projects/rnaseq.md
+  - Previous Projects:
+      - TB Genomics: projects/tb_genomics.md
+      - 16S rRNA Genotyping: projects/16S_rRNA_genotyping.md
+
