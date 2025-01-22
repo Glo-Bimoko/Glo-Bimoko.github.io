@@ -1,9 +1,9 @@
 ---
 title: "Pharmacogenomics Analysis"
 date: 2024-10-11
-description: "An overview of my contribution in pharmacogenomics."
+description: "An overview of my views in pharmacogenomics."
 ---
-
+# An overview of my views in pharmacogenomics
 
 Pharmacogenomics is the study of how an individual's genetic makeup affects their response to drugs. This field plays a critical role in advancing personalized medicine by optimizing drug efficacy and minimizing adverse effects. My work in pharmacogenomics aligns with my broader interest in OMICS technologies and their application in healthcare, particularly in creating tailored treatment plans based on patients' genetic profiles.
 Overview of Pharmacogenomics
@@ -19,13 +19,13 @@ In my current role at the Centre for Proteomics and Genomics Research (CPGR), I 
 
     Personal Project: Diabetic Pharmacogenomics: Given my personal connection to diabetes, with my brother being affected by the condition, I am particularly interested in applying pharmacogenomics to improve diabetes management. One of my goals is to study genetic variations that influence drug response in diabetes, such as those affecting the efficacy of metformin or insulin analogs. I aim to develop personalized treatment recommendations based on patients' genetic backgrounds.
 
-Tools and Technologies
+##Tools and Technologies
 
     Microarray Platforms: I work with microarrays to analyze genetic variations relevant to drug metabolism.
     Python and Bioinformatics: My knowledge in Python allows me to automate the analysis of pharmacogenomics datasets, enhancing the efficiency of processing large volumes of genetic data.
     Nextflow Pipelines: I am exploring ways to integrate Nextflow with my current workflows to streamline the processing of both microarray and RNA-seq data, which will be crucial in scaling pharmacogenomics projects.
 
-Future Directions
+##Future Directions
 
 As I advance in my bioinformatics career, I envision using pharmacogenomics to contribute to the development of precision medicine tools, particularly in chronic disease management like diabetes and cardiovascular diseases. My work on digital twins will continue to evolve, and I hope to see GenoSync Health (my envisioned organization) being a pioneer in pharmacogenomics-driven healthcare, providing personalized drug therapy solutions.
 
