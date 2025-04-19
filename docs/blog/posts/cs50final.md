@@ -1,3 +1,9 @@
+---
+title: "From Tinkering to Transformation: My Journey into Programmings"
+date: 2025-01-21
+description: "An overview of my journey in computation up to now"
+---
+
 # From Tinkering to Transformation: My Journey into Programming
 
 Embarking on CS50P was more than just a decision to learn Python—it was a pivotal step in advancing my career and bridging the gap between foundational knowledge and advanced bioinformatics skills. Through this course, I didn’t just learn programming; I transformed how I approach problems, analyze data, and craft solutions. From developing a structured way of thinking to completing a challenging final project, CS50P has been a journey of profound growth and discovery.

@@ -1,37 +1,23 @@
-# Welcome
+# Glory Bimoko
 
-I’m **Glory** – a passionate MLS with a focus on **Bioinformatics** and **Molecular Pathology**. My career revolves around analyzing complex datasets, especially in the context of pharmacogenomics and molecular biology. Through this platform, I aim to share my journey, projects, and insights in these dynamic fields.
+---
 
+**Hi, i'm  Glory!**  
+A Medical Laboratory Scientist (HPCSA accredited) and Bioinformatician in training. Welcome to my portfolio, where I showcase my projects, blogs  and professional journey.
 
-
-## My Areas of Expertise
-
-- **Microarray Technology**: Analyzing .CEL files to extract meaningful gene expression patterns.
-- **Pharmacogenomics**: Exploring the potential of genetic information to optimize drug treatments.
-- **RNA-seq Analysis**: Building automated pipelines for RNA-seq data using Python and Nextflow.
-- **Bioinformatics Tools**: Nextflow, Python, Docker, AWS, Linux etc... 
-
-## Current Projects
-
-### 1. [Pharmacogenomics Data Analysis](docs/projects/pharmacogenomics.md)
-I’m currently working on processing microarray data to analyze genetic markers in pharmacogenomics. This project aims to help clinicians make informed decisions about personalized medicine based on patient-specific genetic data.
-
-### 2. RNA-Seq Pipeline Development
-As part of CPGR’s multi-OMICs approach, I’m developing an RNA-seq pipeline using **Nextflow** and bioinformatics tools like **STAR** and **DESeq2**. The pipeline automates transcriptomics data processing from raw sequences to meaningful biological insights.
-
-### 3. Next-gen Pharmacogenomics for Diabetic Patients
-I’m laying the groundwork for a **Pharmacogenomics** platform, starting with **microarray data**. To enable more personalized treatment and nutritional recommendations for diabetics & pre-diabetics.
+## About Me
+Learn more about my background and interests on the [About](/about/) page.
 
 ## Blog
+Check out my latest blog posts on the [Blog](/blog/) page.
 
-I frequently write about bioinformatics trends, data science, and my personal experiences in molecular biology. Some of the topics I plan to cover include:
+## Projects
+Explore my current and previous projects:
 
-- **The Role of Bioinformatics in Precision Medicine**
-- **Nextflow: A Game-Changer for Bioinformatics Pipelines**
-- **Molecular Pathology Meets Data Science: New Frontiers**
+- [Next-gen Pharmacogenomics](/projects/pharmacogenomics/)
+- [TB Genomics](/projects/tb_genomics/)
+- [16S rRNA Genotyping](/projects/16S_rRNA_genotyping/)
 
-## Get in Touch
+---
 
-If you're interested in my work or have opportunities for collaboration, feel free to connect with me on [GitHub](https://github.com/Glo-Bimoko) or [LinkedIn](https://www.linkedin.com/in/glory-bimoko-2621311b3/).
-
-Thank you for visiting, hopefully you'll join us on this journey!
+Thank you for visiting! Feel free to reach out if you'd like to collaborate or connect. [GitHub](https://github.com/Glo-Bimoko)/[LinkedIn](https://www.linkedin.com/in/glory-bimoko-2621311b3/).

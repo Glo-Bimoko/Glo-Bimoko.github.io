@@ -50,30 +50,33 @@ extra:
     provider: google
     property: G-3WPWVJSQGS
 
-
 # Plugins 
 plugins:
   - meta-descriptions
   - blog:
       post_date_format: medium
-      post_readtime: true
-      blog_dir: blog
-      blog_toc: true
+      post_readtime: true   #enable readtime estimation
+      blog_dir: blog/posts #Directory where blog posts are stored
+      blog_toc: true #enable table of content
+      archive: true  #enable blog archive
+      categories: true  #Enable categories
+      tags: true #Enable tags
   - search:
       lang: en
-
-
-
 
 nav:
   - Home: index.md
   - About: about.md
   - Blog: 
-    - blog/index.md
+    - Blog Home: blog/index.md #Landing page for all blogs
+    - Archive: blog/archive/ #auto-generated archive page
+    - categories: blog/categories/ #Auto-generated categories page
+    - Tags: blog/tags/ #auto-genetated tags page 
+    - From tinkering to Transformation: posts/cs50final.md #Individual blog post
   - Current Projects:
       - Pharmacogenomics Data Analysis: projects/pharmacogenomics.md
-      - RNA-seq Pipeline: projects/rnaseq.md
-  - Previous Projects:
+  - Project reflections:
       - TB Genomics: projects/tb_genomics.md
-      - 16S rRNA Genotyping: projects/16S_rRNA_genotyping.md
+      - 16S_rRNA_Genotyping: projects/Honors_project_reflection.md
+    
 

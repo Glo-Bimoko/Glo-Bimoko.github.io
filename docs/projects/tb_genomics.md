@@ -1,54 +1,48 @@
 ---
-title: "TB Genomics"
+title: "From TB Diagnostics to Genomic Curiosity"
 date: 2024-10-11
-description: "An overview of my work in the TB genomics laboratory."
+description: "How an unexpected role in tuberculosis diagnostics ignited my journey into bioinformatics and infectious disease genomics."
 ---
 
+# 🧬 From TB Diagnostics to Genomic Curiosity  
+## How an unexpected lab role changed the way I see public health, data, and diagnostics
 
-Tuberculosis (TB) remains a significant global health threat, and genomics has emerged as a critical tool in understanding the pathogen's biology, resistance mechanisms, and transmission dynamics. As part of my work in genomics, I have undertaken several projects focused on using genomic data to address challenges in TB control and treatment.
-Project Overview
+After completing my honors degree, I began working in a clinical molecular diagnostics lab, rotating across various diagnostic streams. From virology and STIs to genetics and respiratory pathogens. This grounded me in the fundamentals of molecular lab work and clinical workflows.
 
-My TB genomics projects have focused on leveraging high-throughput sequencing technologies and bioinformatics tools to analyze Mycobacterium tuberculosis genomes. These projects aim to understand the genetic diversity of TB strains, detect mutations associated with drug resistance, and explore the epidemiology of TB in different populations.
-Key Objectives:
+My trajectory shifted dramatically when I was assigned to support the **tuberculosis diagnostics unit**.
 
-    Detection of Drug-Resistant TB Strains: Identification of mutations in key genes such as katG, inhA, and rpoB, which are associated with resistance to first-line anti-TB drugs (e.g., isoniazid and rifampicin).
-    Strain Typing and Phylogenetics: Phylogenetic analysis of TB strains to trace transmission pathways and determine the evolutionary relationships between different strains.
-    Whole Genome Sequencing (WGS): Analysis of WGS data to identify novel mutations and genetic markers that can be used for diagnostic purposes or to inform treatment strategies.
+### A Turning Point
 
-Tools and Technologies
+The TB lab needed support, and I stepped in. Not knowing that this temporary shift would become one of the most defining experiences of my early career. Day by day, I became more immersed in TB diagnostics: processing patient samples, interpreting results, and liaising with clinicians & healthcare professionals to help guide treatment decisions.
 
-1. Nextflow:
+Over time, I gained the trust and autonomy to operate independently. I wasn’t just running assays, I was contributing to real-world clinical outcomes. And with each case, I began to understand just how deeply tuberculosis affects lives, especially in resource-limited settings.
 
-As with my RNA-seq analysis pipeline, I have incorporated Nextflow to manage the complexity of my TB genomics workflows. Nextflow helps in orchestrating various tasks, from quality control to variant calling, ensuring reproducibility and scalability across different environments.
+What began as a technical role evolved into something personal.
 
-2. BWA:
+### When the Questions Started
 
-For read alignment, BWA (Burrows-Wheeler Aligner) is used to align the sequencing reads to the reference genome of Mycobacterium tuberculosis. BWA ensures high-quality alignment, which is essential for downstream analyses like variant detection.
+Some complex cases required external referrals for **phenotypic susceptibility testing** or **genomic sequencing**. Tools our lab dedicated specifically for oncology diagnostics. That contrast caught my attention, and sparked a curiousity about the untapped potential of sequencing in infectious disease.
 
-3. GATK:
+I started spending breaks and weekends reading TB genomics papers, mapping out mutation pathways, and teaching myself about resistance genes like **katG**, **rpoB**, and **inhA**. I came to realize that **direct sequencing**, bypassing culture altogether, could in some cases drastically cut down diagnostic turnaround time.
 
-The Genome Analysis Toolkit (GATK) is used for variant calling, particularly for detecting SNPs (single nucleotide polymorphisms) and indels (insertions/deletions). GATK is widely trusted for its accuracy in calling variants in microbial genomes.
+And with that, I had unknowingly taken my first step into bioinformatics.
 
-4. Samtools:
+### A New Kind of Thinking
 
-Samtools is employed to handle the BAM files generated during the alignment process. It assists in sorting, indexing, and visualizing the alignment results, which is key to ensuring data integrity.
+No pipette or protocol had prepared me for the world of **genomic data**, but the curiosity was real. I began understanding how resistance mutations could be detected computationally, and how genomic information could complement traditional diagnostics in powerful ways.
 
-5. Prokka:
+That experience taught me that **bioinformatics doesn’t start with code — it starts with questions**. My work in that lab connected the dots between diagnostics and data, between biology and computation, and between science and empathy.
 
-For annotation of bacterial genomes, Prokka is used to predict coding sequences, functional genes, and non-coding RNAs. This step is crucial for understanding the functional implications of detected variants and mutations.
+### What I Took Away
 
-6. Phylogenetic Analysis:
+- **Confidence through autonomy**: I learned to lead, not just follow.
+- **Purpose in precision**: Every sample had a story — and a patient on the other side.
+- **Curiosity as a compass**: Self-teaching wasn’t easy, but it felt necessary.
+- **Bioinformatics as a mindset**: It’s about solving problems, not just writing scripts.
 
-To explore the relationships between different TB strains, I use tools like IQ-TREE and BEAST for building phylogenetic trees. These tools help to understand the evolutionary dynamics of TB in specific regions or populations.
-Case Studies
+### Where It’s Taken Me
 
-1. Drug-Resistant TB in South Africa:
+Though I’ve since moved into new areas — including microarray data analysis and digital health innovation, this chapter still informs everything I do. It gave me a reason to care, a reason to learn, and a reason to build.
 
-In one of my projects, I analyzed genomic data from drug-resistant TB strains collected in South Africa. The project aimed to map out the prevalence of key drug-resistance mutations and identify patterns in transmission across different communities. Using WGS data, we were able to detect novel resistance mutations that had not been previously reported in the literature.
-
-2. Molecular Epidemiology of TB:
-
-Another project focused on using genomics to study the spread of TB within a confined population. Phylogenetic analysis revealed several clusters of closely related TB strains, suggesting localized outbreaks that required targeted public health interventions.
-Conclusion
-
-TB genomics is a vital area of research that combines cutting-edge sequencing technologies with bioinformatics to fight one of the world’s most deadly infectious diseases. Through my projects, I have contributed to a better understanding of TB genomics, particularly in the context of drug resistance and transmission dynamics. Moving forward, I aim to expand these projects by integrating new tools and approaches, such as metagenomics and transcriptomics, to further explore the complex biology of Mycobacterium tuberculosis.
+A role in TB diagnostics taught me more than protocols. It taught me to listen to the data, and care about the story behind it. 
+*La lutte contre la tuberculose continue*.

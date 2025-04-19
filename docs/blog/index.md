@@ -1,12 +1,7 @@
 # Blog
 
-   ---
-   title: "Your Post Title"
-   date: 2023-10-10
-   tags: [tag1, tag2]
-   summary: "A brief summary of the post."
-   ---
+From science to stories—here's what's new in the blogosphere:
 
-   # Your Post Content
+## Posts
 
-   This is where the content of your post goes.
+- [From Tinkering to Transformation](/blog/posts/cs50final)

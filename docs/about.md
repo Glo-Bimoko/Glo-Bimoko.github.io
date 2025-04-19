@@ -1,3 +1,18 @@
-## About Me
+# Welcome
 
-With a strong foundation in medical laboratory science, I specialize in **molecular pathology** and **bioinformatics**. My current role at the **Centre for Proteomics and Genomics Research (CPGR)** allows me to work at the cutting edge of OMICS technologies. With a particular focus on **microarray analysis** and **multi-OMICS data integration**. I’m also pursuing a master’s degree in **Data Science and Bioinformatics** at the University of Cape Town, furthering my knowledge in computational biology and data analytics.
+I’m **Glory** – a passionate MLS with a focus on **Bioinformatics** and **Molecular Pathology**. My career revolves around analyzing complex datasets, especially in the context of pharmacogenomics and molecular biology.
+
+
+## My Areas of Expertise
+
+- **Molecular diagnostics**: My journey as a scientist began in a molecular diagnostics environment, where I gained hands-on experience in infectious disease diagnostics, genetic testing, and Molecular oncology.
+- **Microarray Technology**: Proficient in analyzing Microarray data to uncover meaningful gene expression patterns.
+- **Pharmacogenomics**: Harnessing genetic data to optimize drug therapies and advance personalized medicine, with a focus on improving the lives of my loved ones.
+- **Bioinformatics**: Bridging biology and computational science to develop innovative, cross-disciplinary solutions.
+
+
+## Get in Touch
+
+If you're interested in my work or have opportunities for collaboration, feel free to connect with me on [GitHub](https://github.com/Glo-Bimoko) or [LinkedIn](https://www.linkedin.com/in/glory-bimoko-2621311b3/).
+
+Thank you for visiting, hopefully you'll join us on this journey!

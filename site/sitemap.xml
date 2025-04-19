@@ -2,46 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://Glo-Bimoko.github.io/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Glo-Bimoko.github.io/about/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Glo-Bimoko.github.io/blog/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
-         <loc>https://Glo-Bimoko.github.io/blog/2024/10/10/index-of-blog-posts/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <loc>https://Glo-Bimoko.github.io/blog/posts/</loc>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
-         <loc>https://Glo-Bimoko.github.io/blog/2024/10/11/using-phages-against-tuberculosis-a-new-frontier-in-infectious-disease-treatment/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <loc>https://Glo-Bimoko.github.io/blog/posts/cs50final/</loc>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
-         <loc>https://Glo-Bimoko.github.io/projects/16S_rRNA_genotyping/</loc>
-         <lastmod>2024-10-12</lastmod>
-    </url>
-    <url>
-         <loc>https://Glo-Bimoko.github.io/projects/microarray/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <loc>https://Glo-Bimoko.github.io/projects/Honors_project_reflection/</loc>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Glo-Bimoko.github.io/projects/pharmacogenomics/</loc>
-         <lastmod>2024-10-12</lastmod>
-    </url>
-    <url>
-         <loc>https://Glo-Bimoko.github.io/projects/rnaseq/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
     <url>
          <loc>https://Glo-Bimoko.github.io/projects/tb_genomics/</loc>
-         <lastmod>2024-10-12</lastmod>
-    </url>
-    <url>
-         <loc>https://Glo-Bimoko.github.io/blog/archive/2024/</loc>
-         <lastmod>2024-10-12</lastmod>
+         <lastmod>2025-04-19</lastmod>
     </url>
 </urlset>
